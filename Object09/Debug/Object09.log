@@ -1,5 +1,0 @@
-﻿  추가과제.cpp
-C:\Users\Administrator\source\repos\Object09\Object09\추가과제.cpp(81,18): error C2065: 'shapeFactory': 선언되지 않은 식별자입니다.
-C:\Users\Administrator\source\repos\Object09\Object09\추가과제.cpp(83,18): error C2065: 'shapeFactory': 선언되지 않은 식별자입니다.
-C:\Users\Administrator\source\repos\Object09\Object09\추가과제.cpp(86,18): error C2065: 'shapeFactory1': 선언되지 않은 식별자입니다.
-C:\Users\Administrator\source\repos\Object09\Object09\추가과제.cpp(88,18): error C2065: 'shapeFactory1': 선언되지 않은 식별자입니다.
