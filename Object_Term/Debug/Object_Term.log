@@ -1,0 +1,12 @@
+﻿  calculator.cpp
+C:\Users\Administrator\source\repos\Object_Term\Object_Term\calculator.cpp(21,13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Administrator\source\repos\Object_Term\Object_Term\calculator.cpp(22,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Administrator\source\repos\Object_Term\Object_Term\calculator.cpp(16,10): warning C4101: 'symbol' :참조되지 않은 지역 변수입니다.
+C:\Users\Administrator\source\repos\Object_Term\Object_Term\calculator.cpp(66,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Administrator\source\repos\Object_Term\Object_Term\calculator.cpp(70,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Administrator\source\repos\Object_Term\Object_Term\calculator.cpp(77,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Administrator\source\repos\Object_Term\Object_Term\calculator.cpp(107,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Administrator\source\repos\Object_Term\Object_Term\calculator.cpp(136,29): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\Administrator\source\repos\Object_Term\Object_Term\calculator.cpp(166,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Administrator\source\repos\Object_Term\Object_Term\calculator.cpp(218,16): warning C4101: 'ex' :참조되지 않은 지역 변수입니다.
+  Object_Term.vcxproj -> C:\Users\Administrator\source\repos\Object_Term\Debug\Object_Term.exe
